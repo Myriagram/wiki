@@ -1,0 +1,1 @@
+redirect to [rpc.md](https://github.com/nebulasio/wiki/blob/master/rpc.md)
